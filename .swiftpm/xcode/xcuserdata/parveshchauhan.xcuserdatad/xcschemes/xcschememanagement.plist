@@ -17,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>VWO_Insights</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>ios-mobile-insights-artifacts</key>
 		<dict>
 			<key>primary</key>
