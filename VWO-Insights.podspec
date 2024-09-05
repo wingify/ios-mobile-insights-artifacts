@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 	s.author            = { 'VWO' => 'dev@wingify.com' }
 	s.platform     	    = :ios, '12.0'
    	s.swift_version = '5.0'
-	s.source            = { :http => "https://github.com/wingify/ios-mobile-insights-artifacts/raw/#{s.version}/VWO_Insights.xcframework.zip" }
+	s.source            = { :http => "https://github.com/wingify/ios-mobile-insights-artifacts/raw/hotfixes/VWO_Insights.xcframework.zip" }
 	s.ios.vendored_frameworks = 'VWO_Insights.xcframework'
 
 end
