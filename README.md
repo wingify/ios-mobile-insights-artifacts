@@ -27,6 +27,11 @@ To integrate VWO Insights into your iOS application, follow these steps after co
    import VWO_Insights
    VWO.configure(accountId: "", sdkKey: "", userId: "")
    ```
+      
+   ```swiftUI
+   import VWO_Insights
+   VWO.configure(accountId: "", sdkKey: "",isSwiftUI: true, userId: "")
+   ```
    
 2. **Track User Actions**
    - Implement tracking for various user actions throughout your application by start session recording.
