@@ -23,11 +23,13 @@ To integrate VWO Insights into your iOS application, follow these steps after co
    - Import VWO SDK into your application.
    - Initialize the SDK with your API key.
 
+   For Swift
    ```swift
    import VWO_Insights
    VWO.configure(accountId: "", sdkKey: "", userId: "")
    ```
       
+   For SwiftUI
    ```swiftUI
    import VWO_Insights
    VWO.configure(accountId: "", sdkKey: "",isSwiftUI: true, userId: "")
