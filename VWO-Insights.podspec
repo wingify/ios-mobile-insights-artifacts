@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name              = "VWO-Insights"
-	s.version           = "0.5.1"
+	s.version           = "0.5.2"
 	s.summary           = "VWO Insights SDK for understanding user behavior to build meaningful interactions"
 	s.description       = "VWO Insights SDK for understanding user behavior to build meaningful interactions."
 	s.documentation_url = "https://developers.vwo.com/reference/mobile-insights-ios-sdk-reference"
