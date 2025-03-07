@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "1.0.1"
+let version = "1.0.2"
 
 let package = Package(
     name: "VWO_Insights",
@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "VWO_Insights",
             url: "https://github.com/wingify/ios-mobile-insights-artifacts/raw/\(version)/VWO_Insights.xcframework.zip",
-            checksum: "defd56fc356c66d8365de6c354d1be5320d63b0a3cdbb4a5b8a7f07475bbd673")
+            checksum: "9c2e046b6ac6e5624ab56fb33914e790479212e1866479fd008b7819d58ef836")
         
     ]
 )
