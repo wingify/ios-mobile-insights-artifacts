@@ -111,3 +111,8 @@ What’s New in This Release:
 [VWO Insights SDK v1.0.2] 
 What’s New in This Release:
     •    Feature: Provide support of integration of Mixpanel and Moengage.
+
+[VWO Insights SDK v1.0.3] 
+What’s New in This Release:
+    •    Feature: Manaul hiding of view.
+    •    Enhancement and optimization.
