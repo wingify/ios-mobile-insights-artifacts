@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "VWO_Insights",
             url: "https://github.com/wingify/ios-mobile-insights-artifacts/raw/\(version)/VWO_Insights.xcframework.zip",
-            checksum: "7a7d9a75b128ede4857ba730a8cac98ffa45ef512f034f3e59dae530cac4116a")
+            checksum: "81aa286928d9a112802f3216b1db35a6dc079d192a4789c4b9e6b66698bb11e9")
         
     ]
 )
