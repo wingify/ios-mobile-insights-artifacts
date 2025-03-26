@@ -106,7 +106,7 @@ What’s New in This Release:
 
 [VWO Insights SDK v1.0.1] 
 What’s New in This Release:
-    •    Bug Fix: Fixed issue with screen navigation fluctuation.
+    •    Enhancement and optimization
 
 [VWO Insights SDK v1.0.2] 
 What’s New in This Release:
@@ -115,4 +115,10 @@ What’s New in This Release:
 [VWO Insights SDK v1.0.3] 
 What’s New in This Release:
     •    Feature: Manaul hiding of view.
+    •    Bug Fix: Fixed issue with screen navigation fluctuation.
+             
+[VWO Insights SDK v1.0.4] 
+What’s New in This Release:
+    •    Bug Fix: General bug fixes.
     •    Enhancement and optimization.
+    •    Users with Xcode versions below 16 should now be able to build and run the SDK without encountering the swift compiler issue.
