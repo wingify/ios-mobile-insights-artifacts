@@ -122,3 +122,8 @@ What’s New in This Release:
     •    Bug Fix: General bug fixes.
     •    Enhancement and optimization.
     •    Users with Xcode versions below 16 should now be able to build and run the SDK without encountering the swift compiler issue.
+
+[VWO Insights SDK v1.0.5] 
+What’s New in This Release:
+    •    Performance Improvements: Optimized screen navigation for smoother performance on lower-end devices.
+    •    UI Fixes: Fixed keyboard flickering issue observed on lower-end devices.
