@@ -127,3 +127,8 @@ What’s New in This Release:
 What’s New in This Release:
     •    Performance Improvements: Optimized screen navigation for smoother performance on lower-end devices.
     •    UI Fixes: Fixed keyboard flickering issue observed on lower-end devices.
+
+[VWO Insights SDK v1.0.6] 
+What’s New in This Release:
+    •    Performance Improvements: Optimized Mnaual View Hiding for smoother performance on lower-end devices.
+    •    Bug Fix: Handled edge cases for linking FME SDK.
