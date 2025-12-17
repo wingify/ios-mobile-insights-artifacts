@@ -129,6 +129,11 @@ What’s New in This Release:
     •    UI Fixes: Fixed keyboard flickering issue observed on lower-end devices.
 
 [VWO Insights SDK v1.0.6] 
-What’s New in This Release:
+What's New in This Release:
     •    Performance Improvements: Optimized Mnaual View Hiding for smoother performance on lower-end devices.
     •    Bug Fix: Handled edge cases for linking FME SDK.
+
+[VWO Insights SDK v2.0.0] 
+✨ New Feature: In-App Surveys
+   Listen to your users in real time.
+   Launch beautiful, native surveys directly in your app and capture feedback when it matters most.

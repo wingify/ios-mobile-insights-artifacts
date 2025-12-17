@@ -35,13 +35,27 @@ To integrate VWO Insights into your iOS application, follow these steps after co
    VWO.configure(accountId: "", sdkKey: "",isSwiftUI: true, userId: "")
    ```
    
-2. **Track User Actions**
+2. **Use Survey**
+   - Trigger survey to collect user feedback and set attributes using surveySDK.
+
+   For triggering survey:
+   ```swift
+   let VWOSurvey = VWO.getSurveyManager()
+   VWOSurvey.fetchSurvey(viewController: self, triggerName: "triggerName")
+   ```
+   
+   For setting attributes using surveySDK:
+   ```swift
+   VWOSurvey..updateUserAttributes(attribute: "userType", attributeValue: true, dataType: "Bool")
+   ```
+   
+3. **Track User Actions**
    - Implement tracking for various user actions throughout your application by start session recording.
 
    ```swift
    VWO.startSessionRecording()
    ```
-3. **Analyze and Optimize**
+4. **Analyze and Optimize**
    - Use the VWO dashboard to analyze tracked data and derive actionable insights.
    
    
