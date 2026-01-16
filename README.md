@@ -41,12 +41,12 @@ To integrate VWO Insights into your iOS application, follow these steps after co
    For triggering survey:
    ```swift
    let VWOSurvey = VWO.getSurveyManager()
-   VWOSurvey.fetchSurvey(viewController: self, triggerName: "triggerName")
+   VWOSurvey.trackEvent(eventName: "triggerName",viewController: self )
    ```
    
    For setting attributes using surveySDK:
    ```swift
-   VWOSurvey..updateUserAttributes(attribute: "userType", attributeValue: true, dataType: "Bool")
+   VWOSurvey.setAttribute(attributes: ["userName": "john")
    ```
    
 3. **Track User Actions**

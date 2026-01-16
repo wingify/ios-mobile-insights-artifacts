@@ -137,3 +137,11 @@ What's New in This Release:
 ✨ New Feature: In-App Surveys
    Listen to your users in real time.
    Launch beautiful, native surveys directly in your app and capture feedback when it matters most.
+   
+[VWO Insights SDK v2.1.0] 
+✨ What’s New
+    We’ve made in-app surveys more powerful and flexible:
+   •  Introduced priority controls to define the sequence in which you want to display the surveys
+   •  Trigger surveys based on user actions inside your app
+   •  Show multiple surveys in a single user session
+   •  Faster performance and improved reliability
