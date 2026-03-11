@@ -145,3 +145,8 @@ What's New in This Release:
    •  Trigger surveys based on user actions inside your app
    •  Show multiple surveys in a single user session
    •  Faster performance and improved reliability
+   
+[VWO Insights SDK v2.1.1] 
+✨ What’s New
+   •  Bug Fix: Implemented performance optimizations and resolved SwiftJSON dependency-related issues.
+
