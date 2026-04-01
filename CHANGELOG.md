@@ -150,7 +150,11 @@ What's New in This Release:
 ✨ What’s New
    •  Bug Fix: Implemented performance optimizations and resolved SwiftJSON dependency-related issues.
 
-[VWO Insights SDK v2.1.1] 
+[VWO Insights SDK v2.1.3] 
 ✨ What’s New
    •  Bug Fix: Implemented performance optimizations and minor bug fixes.
+
+[VWO Insights SDK v2.1.4] 
+✨ What’s New
+   •  Security Improvements, Bug fixes and Performance optimizations.
 
