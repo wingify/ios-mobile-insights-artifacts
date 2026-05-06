@@ -158,3 +158,20 @@ What's New in This Release:
 ✨ What’s New
    •  Security Improvements, Bug fixes and Performance optimizations.
 
+[VWO Insights SDK v2.2.0] 
+✨ What's New \
+   We're excited to introduce several enhancements that improve visibility, targeting flexibility, and user-level personalization across Mobile Insights and Mobile Surveys.
+   
+   *  Mobile Surveys now available in Data360
+      *  You can now view Mobile Survey interactions directly within Data360 user profiles, alongside events and their properties.
+      *  Additionally, when a survey is opened during a Mobile Insights session, it will also be captured within session recordings—giving you richer context into user behaviour.
+      
+   *  More powerful targeting with advanced trigger operators
+      *  We've expanded support for trigger conditions on custom attributes. You can now use AND, OR, and AND THEN operators, along with in-list and not-in-list.
+      *  This enables more precise and flexible audience targeting compared to the earlier OR-only support.
+      
+   *  User switching during runtime
+      *  You can now switch users seamlessly within the app. Each switch creates a new session tied to the updated user:
+      *  In Mobile Insights, sessions are recorded separately per user
+      *  In Mobile Surveys, personalization flows adapt accordingly
+      *  This makes it easier to test scenarios and support multi-user environments.
