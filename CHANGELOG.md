@@ -175,3 +175,7 @@ What's New in This Release:
       *  In Mobile Insights, sessions are recorded separately per user
       *  In Mobile Surveys, personalization flows adapt accordingly
       *  This makes it easier to test scenarios and support multi-user environments.
+
+[VWO Insights SDK v2.2.2] 
+✨ What’s New
+   •  Security Improvements, Bug fixes and Performance optimizations.
