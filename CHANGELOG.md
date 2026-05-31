@@ -179,3 +179,10 @@ What's New in This Release:
 [VWO Insights SDK v2.2.2] 
 ✨ What’s New
    •  Security Improvements, Bug fixes and Performance optimizations.
+   
+   
+   
+[VWO Insights SDK v2.5.0] 
+✨ What’s New
+   •  Security Improvements, Bug fixes and Performance optimizations.
+
